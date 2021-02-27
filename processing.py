@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 
 img = cv2.imread('Dataset/yes/Y13.jpg')
+dim=(224,224)
+img=cv2.resize(img, dim)
 
 #image to grayscale, and blurring it slightly
 g = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
