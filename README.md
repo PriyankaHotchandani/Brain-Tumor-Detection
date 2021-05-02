@@ -34,9 +34,8 @@
 <p>Through our website 'BTD', we can precisely automate the process of detecting whether a brain tumor is present in a patient or not, while simultaneously accompanying it with an easy-to-use user interface (for the doctor + patient), hospitals and patients will be able to simplify their workflow for detecting anomalies much earlier and will be able to capture it with precision without having to sacrifice accuracy. This automated detection technique leads to accurate, efficient and cost-effective detection of brain tumors whilst alleviating the bottleneck of limited diagnosis time for doctors.  
 </p>
 
-<!-- <p><strong>Link to Demo Videos and Body Segmentation Model:</strong>
-https://drive.google.com/drive/folders/1T-GQfl3ogf-KyzS4cY9UPIjahOKtnJ9E?usp=sharing
-</p>
+<p><strong>Link to Backend Model:</strong>
+https://drive.google.com/file/d/1MOhTLmoFG5is1TzgxSKO5WUJf9GJ-k99/view?usp=sharing</p>
 <br> -->
 
 ---
