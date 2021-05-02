@@ -1,7 +1,7 @@
 <h1 align="center">Brain Tumor Detection</h1>
 
 <div align="center">
-<img align="center" src="readme_Assets\B.png" height="250px"> 
+<img align="center" src="readme_assets\B.png" height="250px"> 
 </div>
 
 <br>
