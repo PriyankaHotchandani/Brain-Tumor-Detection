@@ -1,8 +1,8 @@
 <h1 align="center">Brain Tumor Detection</h1>
 
-<!-- <div align="center">
-<img align="center" src="Readme_Assets\V-Shop Logo.png" height="250px"> 
-</div> -->
+<div align="center">
+<img align="center" src="readme_Assets\B.png" height="250px"> 
+</div>
 
 <br>
 
