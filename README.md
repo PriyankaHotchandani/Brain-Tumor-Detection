@@ -6,14 +6,14 @@
 
 <br>
 
-[![](https://img.shields.io/badge/Made_with-SQLite-green?style=for-the-badge&logo=SQLite)](https://www.sqlite.org/index.html)
+[![](https://img.shields.io/badge/Made_with-Python-green?style=for-the-badge&logo=python)](https://www.python.org)
 [![](https://img.shields.io/badge/Made_with-Flask-green?style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/1.1.x/)
+[![](https://img.shields.io/badge/Made_with-Tensorflow-green?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org)
+[![](https://img.shields.io/badge/Made_with-Opencv-green?style=for-the-badge&logo=opencv)](https://opencv.org)
+[![](https://img.shields.io/badge/Made_with-SQLite-green?style=for-the-badge&logo=SQLite)](https://www.sqlite.org/index.html)
 [![](https://img.shields.io/badge/Made_with-HTML-green?style=for-the-badge&logo=HTML)](https://html.com/)
 [![](https://img.shields.io/badge/Made_with-CSS-green?style=for-the-badge&logo=CSS)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![](https://img.shields.io/badge/Made_with-JavaScript-green?style=for-the-badge&logo=javaScript)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/Made_with-Opencv-green?style=for-the-badge&logo=opencv)](https://opencv.org)
-[![](https://img.shields.io/badge/Made_with-Python-green?style=for-the-badge&logo=python)](https://www.python.org)
-[![](https://img.shields.io/badge/Made_with-Tensorflow-green?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org)
 [![](https://img.shields.io/badge/Made_with-Bootstrap-green?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
 
 
