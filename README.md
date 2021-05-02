@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1T-GQfl3ogf-KyzS4cY9UPIjahOKtnJ9E?usp=sha
 
 <h2><strong>Workflow</h2></strong>
 
-<img src="readme_assets/MP final Flow Diagram.png" style="width: 50%"> <br>
+<img src="readme_assets/MP final Flow Diagram.png" style="width: 30%"> <br>
 
 
 ---
