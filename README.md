@@ -1,8 +1,8 @@
 <h1 align="center">Brain Tumor Detection</h1>
 
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="Readme_Assets\V-Shop Logo.png" height="250px"> 
-</div>
+</div> -->
 
 <br>
 
@@ -59,19 +59,35 @@ https://drive.google.com/drive/folders/1T-GQfl3ogf-KyzS4cY9UPIjahOKtnJ9E?usp=sha
 
 <h2><strong>Workflow</h2></strong>
 
-<img src="assets/MP final Flow Diagram.png"> <br>
+<img src="readme_assets/MP final Flow Diagram.png"> <br>
 
 
 ---
 
 <h2><strong>Screenshots</strong></h2>
 <br>
-<div align="center">
+<div>
 <h3>Login Page</h3>
-<img src="assets/MP final Flow Diagram.png">
-<h3>Login Page</h3>
-<img src="assets/MP final Flow Diagram.png">
-
+<img src="readme_assets/login.PNG">
+<br><br>
+<h3>Sign-Up Page</h3>
+<img src="readme_assets/signup.PNG">
+<br><br>
+<h3>Home Page</h3>
+<img src="readme_assets/mainPage.PNG">
+<br><br>
+<h3>Results Page</h3>
+<img src="readme_assets/detectionResult.PNG">
+<br><br>
+<h3>Neurologists Page</h3>
+<img src="readme_assets/doctors.PNG">
+<br><br>
+<h3>Form Page</h3>
+<img src="readme_assets/form.PNG">
+<br><br>
+<h3>Report Page</h3>
+<img src="readme_assets/report.PNG">
+<br><br>
 </div>
 
 </div>
